@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <style name="MaterialButton" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorAccent">@color/amber</item>
+        <item name="android:colorControlNormal" tools:targetApi="lollipop">@color/secondary_text</item>
+    </style>
+
+    <style name="ToolBar" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:textColorPrimary">@color/icons
+        </item><!--es el color del texto del título-->
+        <item name="android:textColorSecondary">@color/accent
+        </item><!--es el color del menú icono de desbordamiento (tres puntos verticales)-->
+        <item name="android:textColor">@color/icons</item>
+        <item name="android:background">@color/primary_dark</item>
+        <item name="colorControlNormal">@color/amber</item>
+    </style>
+
+</resources>

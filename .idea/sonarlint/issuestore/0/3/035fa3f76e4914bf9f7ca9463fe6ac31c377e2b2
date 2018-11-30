@@ -1,0 +1,9 @@
+
+xsquid:UselessImportCheck"ORemove this unused import 'android.support.design.widget.FloatingActionButton'.(„Ÿ¹¼8áíãõ,
+ksquid:UselessImportCheck"=Remove this unused import 'com.learning.course.model.Course'.(…ñ³êıÿÿÿÿ8áíãõ,
+Ksquid:S1905"*Remove this unnecessary cast to "Toolbar".(ªü–ıÿÿÿÿ8áíãõ,
+rsquid:S1450"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(Ë«ãÙ8áíãõ,
+]squid:S1068"<Remove this unused "countryTextInputEditText" private field.(¬¸„ºıÿÿÿÿ8áíãõ,
+gsquid:HiddenFieldCheck";Rename "toolbar" which hides the field declared at line 23.(ªü–ıÿÿÿÿ8áíãõ,
+ksquid:UselessImportCheck"CRemove this unused import 'android.support.design.widget.Snackbar'.( À®p8áíãõ,
+Ksquid:S1905"*Remove this unnecessary cast to "Toolbar".(«ó·øÿÿÿÿ8áíãõ,

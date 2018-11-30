@@ -1,0 +1,8 @@
+
+Gsquid:S1068"+Remove this unused "courses" private field.(ã¼€8Áàüâõ,
+psquid:UselessImportCheck"BRemove this unused import 'com.learning.course.dao.CourseDaoFake'.(ç­ÍÚüÿÿÿÿ8Áàüâõ,
+rsquid:S1450"VRemove the "adapter" field and declare it as a local variable in the relevant methods.(«’Ãì8Áàüâõ,
+„squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "noOfColumns".(ó—ÕÑşÿÿÿÿ8Áàüâõ,
+rsquid:S1450"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(ş®º—8Áàüâõ,
+Ksquid:S1905"*Remove this unnecessary cast to "Toolbar".(«ó·øÿÿÿÿ8Áàüâõ,
+asquid:UselessImportCheck"3Remove this unused import 'android.widget.Spinner'.(¸£ÃØüÿÿÿÿ8•Øşâõ,
