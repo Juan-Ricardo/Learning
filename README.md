@@ -1,7 +1,6 @@
 # Learning
 
-# Material Search View
-Cute library to implement SearchView in a Material Design Approach. *Works from Android API 14 (ICS) and above*.
+Usa Room, ViewModel, Material Design 2. *Works from Android API 19 (ICS) and above*.
 
 <a href="https://play.google.com/store/apps/details?id=com.valget">
   <img alt="Get it on Google Play"
